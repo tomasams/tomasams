@@ -14,6 +14,38 @@
 
 <hr width="36%" >
 
+
+https://www.linkedin.com/in/tomas-agustin-solazzi-constable-6b3974209/
+
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/tomas-agustin-solazzi-constable-6b3974209/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Tomas_Solazzi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/instagram: Tomas_Solazzi-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:tomassolazzi1@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Tomas_Solazzi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
 <!--
 **tomasams/tomasams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
